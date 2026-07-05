@@ -8,8 +8,7 @@ Learning Speed & Growth: Measuring how quickly a student adapts to and masters c
 
 Bounce-Back & Mental Toughness: Quantifying a developer's recovery rate and psychological resilience after facing professional setbacks, hackathon rejections, or failed tests.
 
-📊 Infographic Breakdown
-Our project workflow is completely mapped out in the architectural diagram watermarked_img_16142062950400093952.png:
+
 
 A] THE PAIN POINT (Systemic Erasure): Traditional hiring pipelines are broken. Generative AI is being used to clone perfect, fraudulent profiles, while institutional elitism completely ignores brilliant regional colleges and pipelines.
 
